@@ -33,6 +33,7 @@ function init() {
     scoreDisplay.innerHTML = score;
 
     tempMovingItem = { ...movingItem };
+    
     for (let i = 0; i < GAME_ROWS; i++) {
         prependNewLine();
     }
