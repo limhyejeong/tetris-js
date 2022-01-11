@@ -1,12 +1,13 @@
+🔗 https://limteractive.github.io/tetris-js/
+
+</br>
+
 ## 💡 알게 된 것
 
 - ES6 문법
 - 클래스 활용
 
-
-
-</br></br>
-
+</br>
 
 # ⚙️ 설계
 
