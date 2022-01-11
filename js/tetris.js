@@ -28,6 +28,7 @@ init();
 
 
 // Functions
+// Init
 function init() {
     score = 0;
     scoreDisplay.innerHTML = score;
@@ -113,6 +114,7 @@ function seizeBlock() {
 function checkMatch() {
 
     const childNodes = playground.childNodes;
+    
     childNodes.forEach(child => {
         let matched = true;
         child.children[0].childNodes.forEach(li => {
