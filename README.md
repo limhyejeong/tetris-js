@@ -1,4 +1,4 @@
-🔗 https://limteractive.github.io/tetris-js/
+🔗 https://limhyejeong.github.io/tetris-js/
 
 </br>
 
